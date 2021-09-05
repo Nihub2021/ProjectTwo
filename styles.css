@@ -1,15 +1,20 @@
-
-body{
+body {
     display: flex;
     justify-content: center;
-}
-
-.main {
+  }
+  
+  .main {
     width: 60vw;
     background: lightblue;
     text-align: center;
-}
-
-h1 {
+  }
+  
+  h1 {
     color: deeppink;
-}
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+  }
+  
